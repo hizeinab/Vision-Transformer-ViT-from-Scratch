@@ -5,8 +5,13 @@ This notebook implements a Vision Transformer (ViT) model from scratch using PyT
 The notebook covers the following steps:
 
 -Setup: Installs necessary libraries and builds required functions for a classification task.
+
 -Data Loading: Downloads the dataset from a given URL
+
 -Model Architecture: Defines the key components of the ViT model, including Patch Embedding, Multihead Self-Attention, MLP Block, Transformer Encoder, and the main ViT class.
+
 -Training: Sets up the optimizer and loss function, and trains the ViT model on the downloaded dataset.
+
 -Results: Visualizes the training and testing loss and accuracy curves, as well as making predictions on some images.
+
 Thank you to everyone involved in the Zero to Mastery Learn PyTorch for Deep Learning course, available at https://www.learnpytorch.io/.
